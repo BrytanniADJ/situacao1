@@ -1,6 +1,6 @@
 body{
     font-family: 'Titillium Web', sans-serif;
-    font-size: 18px;    
+    font-size: 18px;
 }
 
 header , footer{
@@ -10,8 +10,8 @@ header , footer{
 }
 
 header img{
-    height: 50px;
-    width: 50px;
+    height: 80px;
+    width: 80px;
 }
 
 main{
@@ -27,18 +27,18 @@ main ul{
 
 h2{
     font-weight: bold;
-    font-size: 30px;
+    font-size: 37px;
     margin-top: 50px;
     margin-bottom: 25px;
     margin-left: 15px;
-    color: #B987EC;
+    color: #85008C;
 }
 
 h3{
     font-weight: bold;
     font-size: 25px;
     margin: 15px 15px;
-    color: #B987EC;
+    color: #7F00FF;
 }
 
 .nossosProdutos div{
@@ -57,7 +57,5 @@ h3{
 }
 
 .nossosProdutos figure img{
-    height: 200px;
+    height: 150px;
 }
-
-
